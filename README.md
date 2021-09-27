@@ -12,6 +12,7 @@ Projeto desenvoldio para gerir os Serviços e Equipamentos de Rastreamento de au
 <img src='img/preview_template1.png' border=0 />
 <img src='img/preview_template2.png' border=0 />
 <img src='img/preview_template3.png' border=0 />
+<img src='img/preview_template4.png' border=0 />
 </div>
 
 <!--
